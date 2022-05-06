@@ -1,0 +1,17 @@
+{
+  "name": "ed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
+    "prompt-sync": "^4.2.0"
+  }
+}
